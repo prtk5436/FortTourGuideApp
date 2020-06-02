@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Indian Forts Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MH_Fort1_name">Raigad Fort</string>
+    <string name="MH_Fort1_addr">Raigad, Maharashtra 402305, India</string>
+    <string name="MH_Fort1_desc">Height: 1,356 metres</string>
+    <string name="MH_Fort2_name">Shivneri Fort</string>
+    <string name="MH_Fort2_addr">Junnar, Maharashtra 410502, India</string>
+    <string name="MH_Fort2_desc">Height: 1067 meters above sea level.</string>
+    <string name="MH_Fort3_name">Sinhgad Fort</string>
+    <string name="MH_Fort3_addr">Sinhagad Ghat Rd, Thoptewadi, Maharashtra 411025, India</string>
+    <string name="MH_Fort3_desc">Height: 760 metres above ground and 1,312 metres above mean sea level.</string>
+    <string name="MH_Fort4_name">Murud-Janjira Fort</string>
+    <string name="MH_Fort4_addr">Murud village,  Raigad district of Maharashtra, India.</string>
+    <string name="MH_Fort4_desc">Height: 40 feet and is bounded by high walls on all sides.</string>
+
+
+    <string name="RJ_Fort1_name">Chittor Fort</string>
+    <string name="RJ_Fort1_addr">Chittor Fort Road, Chittorgarh, Rajasthan 312001, India</string>
+    <string name="RJ_Fort1_desc">Occupants: Maurya Empire, Bappa Rawal, Kumbha of Mewar, Udai Singh II.</string>
+    <string name="RJ_Fort2_name">Junagarh Fort</string>
+    <string name="RJ_Fort2_addr">Bikaner, Rajasthan 334001, India</string>
+    <string name="RJ_Fort2_desc">Desc: Preserved 16th-century fort featuring many different architectural styles, with guided tours.</string>
+
+    <string name="DL_Fort1_name">Tughlakabad Fort</string>
+    <string name="DL_Fort1_addr">Tughlakabad, New Delhi, Delhi 110044, India</string>
+    <string name="DL_Fort1_desc">Desc:Remains of a 14th-century Tughlaq period stone fort with ramparts and battlements intact..</string>
+    <string name="DL_Fort2_name">Red Fort</string>
+    <string name="DL_Fort2_addr">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006, India</string>
+    <string name="DL_Fort2_desc">Desc: Landmark 17th-century Mughal fortress built in towering red sandstone, now a complex of museums.</string>
+
+
+    <string name="GJ_Fort1_name">Asnani </string>
+    <string name="GJ_Fort1_addr">Katara Hills Rd, Near Pebble Bay, Katara Hills, Bagmugaliya, Bhopal, Madhya Pradesh 462043</string>
+    <string name="GJ_Fort2_name">Kendriya Vidyalaya</string>
+    <string name="GJ_Fort2_addr">Hoshangabad Road, Shriramsharnam Colony, Bagmugaliya, Bhopal, Madhya Pradesh 462026</string>
+    <string name="todo" />
+</resources>
